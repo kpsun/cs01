@@ -8,6 +8,11 @@
 <title>SecureConsult | Cyber Security Advisory</title>
 
 <style>
+:root{
+--herocaptiontextcolor: #e5e7eb;
+}
+
+
 
 body{
 margin:0;
@@ -206,6 +211,92 @@ justify-content:space-around;
 font-size:14px;
 }
 
+<!-- Section idea copied from Crowdstrike website - code by chatgpt -->
+
+.customer-trust{
+    padding:60px 40px;
+    background:#f5f5f5;
+    text-align:center;
+
+}
+
+.customer-trust h2{
+    font-size:28px;
+    margin-bottom:40px;
+    text-align:center;
+   color: --herocaptiontextcolor;
+}
+
+.trust-container{
+    display:flex;
+    max-width:1100px;
+    margin:auto;
+    background:white;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+/* left image */
+
+.trust-image img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+/* image column */
+
+.trust-image{
+    flex:1;
+}
+
+/* text column */
+
+.trust-text{
+    flex:1;
+    padding:40px;
+    text-align:left;
+}
+
+.quote{
+    font-size:20px;
+    font-weight:500;
+    margin-bottom:20px;
+}
+
+.author{
+    font-size:14px;
+    color:#555;
+    margin-bottom:25px;
+}
+
+/* buttons */
+
+.buttons{
+    display:flex;
+    gap:10px;
+}
+
+.btn-red{
+    background:#e60023;
+    color:white;
+    padding:10px 16px;
+    text-decoration:none;
+    border-radius:6px;
+}
+
+.btn-outline{
+    border:1px solid #333;
+    padding:10px 16px;
+    text-decoration:none;
+    border-radius:6px;
+    color:#333;
+}
+
+
+<!-- End of Section idea copied from Crowdstrike website - code by chatgpt -->
+
+
 </style>
 
 </head>
@@ -289,7 +380,38 @@ font-size:14px;
 
 </section>
 
+<!-- ************************************************************************* -->
+<section class="customer-trust">
 
+  <h2>Customer Trust - Need to Rewrite XXXXXXXXXXX</h2>
+
+  <div class="trust-container">
+
+      <div class="trust-image">
+          <img src="images/security-coast.jpg" alt="Security protection">
+      </div>
+
+      <div class="trust-text">
+          <p class="quote">
+          “Needs rewriting XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX”
+          </p>
+
+          <p class="author">
+          MR x<br>
+          Industry name xxxxx
+          </p>
+
+          <div class="buttons">
+              <a href="#" class="btn-red">Hear their story</a>
+              <a href="#" class="btn-outline">View all customer stories</a>
+          </div>
+      </div>
+
+  </div>
+
+</section>
+
+<!-- ************************************************************************* -->
 <section class="about">
 
 <h2>About SecureConsult</h2>
