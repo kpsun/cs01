@@ -1,4 +1,4 @@
-/*
+
 fetch("header.html")
 .then(response => response.text())
 .then(data => {
@@ -10,8 +10,8 @@ fetch("footer.html")
 .then(data => {
 document.getElementById("footer").innerHTML = data;
 });
-*/
 
+/*
 function loadHTML(id, file) {
 
 fetch(file)
@@ -28,3 +28,5 @@ loadHTML("header", "A-Header.html");
 loadHTML("footer", "A-Footer.html");
 
 });
+
+*/
