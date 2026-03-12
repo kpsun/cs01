@@ -1,8 +1,8 @@
 .hero{
   text-align:center;
   padding:120px 30px;
-  background:red;          /*#111827;*/
-  background-image:   url("images/motherboard.png");
+  background:#111827;
+  background-image:   url("images/motherboard.png");  /* linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
