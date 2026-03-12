@@ -6,6 +6,25 @@ padding:120px 30px;
 background:#111827;
 }
 
+/* new addition ***********************************/ 
+.hero{
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/motherboard.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 300px; / * was 500 px */
+  color: white;
+  /* text-align: center; */
+  /* padding-top: 150px; */
+}
+
+
+/****************************** upto here new*/
+
+
+
+
 .hero h1{
 font-size:62px;  /*was 42px */
 margin-bottom:20px;
@@ -26,20 +45,3 @@ color:white;
 cursor:pointer;
 }
 
-/* new addition ***********************************/ 
-.hero{
-  background-image: 
-  linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-  url("images/motherboard.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  height: 300px; / * was 500 px */
-  color: white;
-  text-align: center;
-  padding-top: 150px;
-}
-
-
-/****************************** upto here new*/
