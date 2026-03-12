@@ -1,4 +1,15 @@
-
+.hero{
+  text-align:center;
+  padding:120px 30px;
+  /*background:#111827;*/
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/motherboard.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+  color: white;
+  padding-top: 150px;
+}
 
 .hero h1{
 font-size:62px;  /*was 42px */
@@ -20,15 +31,3 @@ color:white;
 cursor:pointer;
 }
 
-.hero{
-  text-align:center;
-  padding:120px 30px;
-  /*background:#111827;*/
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/motherboard.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 300px;
-  color: white;
-  /* padding-top: 150px; */
-}
