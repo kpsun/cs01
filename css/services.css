@@ -1,0 +1,15 @@
+/* SERVICES */
+
+.services{
+display:flex;
+justify-content:center;
+gap:40px;
+padding:80px;
+}
+
+.service{
+background:#1f2937;
+padding:30px;
+border-radius:8px;
+width:250px;
+}

@@ -1,0 +1,10 @@
+
+/* FOOTER */
+
+footer{
+background:#020617;
+padding:40px;
+display:flex;
+justify-content:space-around;
+font-size:14px;
+}
