@@ -1,4 +1,4 @@
-
+/*
 fetch("header.html")
 .then(response => response.text())
 .then(data => {
@@ -11,7 +11,8 @@ fetch("footer.html")
 document.getElementById("footer").innerHTML = data;
 });
 
-/*
+*/
+
 function loadHTML(id, file) {
 
 fetch(file)
@@ -24,9 +25,8 @@ document.getElementById(id).innerHTML = data;
 
 document.addEventListener("DOMContentLoaded", function () {
 
-loadHTML("header", "A-Header.html");
-loadHTML("footer", "A-Footer.html");
+loadHTML("header", "header.html");
+loadHTML("footer", "footer.html");
 
 });
 
-*/
