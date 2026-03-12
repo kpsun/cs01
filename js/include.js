@@ -24,7 +24,7 @@ document.getElementById(id).innerHTML = data;
 
 document.addEventListener("DOMContentLoaded", function () {
 
-loadHTML("header", "header.html");
-loadHTML("footer", "footer.html");
+loadHTML("header", "A-Header.html");
+loadHTML("footer", "A-Footer.html");
 
 });
