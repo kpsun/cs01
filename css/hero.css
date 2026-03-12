@@ -1,7 +1,10 @@
 .hero{
-  /* text-align:center;
+  text-align:center;
   padding:120px 30px;
-  background:#111827; */
+  background:#111827;
+}  
+ 
+.hero{ 
   background-image: url("images/motherboard.png");  /* linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),*/
   background-size: cover;
   background-position: center;
