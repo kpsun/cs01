@@ -11,8 +11,12 @@ document.getElementById(id).innerHTML = data;
 document.addEventListener("DOMContentLoaded", function () {
 
 //loadHTML("test_area", "test.html");
-loadHTML("header", "header.html");
+loadHTML("header_section", "header.html");
 loadHTML("hero_section", "hero.html");
+loadHTML("services_section", "services.html");
+loadHTML("customer-trust_section", "customer-trust.html");
+loadHTML("about_section", "about.html");
+loadHTML("cta_section", "cta.html");
 loadHTML("footer", "footer.html");
 
 });
