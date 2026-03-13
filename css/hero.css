@@ -27,7 +27,7 @@ cursor:pointer;
 .hero{
   background-image: 
   linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-  url("../images/motherboard.png");   /*  url(var(--image-path) var(--hero-image)); */
+  url("/images/motherboard.png");   /*  url(var(--image-path) var(--hero-image)); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
