@@ -1,6 +1,6 @@
 /* CONSTANTS NOT USED */
 :root{
   --herocaptiontextcolor: #e5e7eb;
-  --image-path: "/images/";
+  --image-path: "../images/";
   --hero-image: "motherboard.png";
 }
