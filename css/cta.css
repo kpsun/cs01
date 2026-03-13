@@ -5,7 +5,25 @@
 text-align:center;
 padding:80px;
 }
-
+/*
 .cta button{
 background:#22c55e;
+padding:12px 25px;
+margin:10px;
+border:none;
+border-radius:4px;
+background:#3b82f6;
+color:white;
+cursor:pointer;
+
+*/
+.cta button{
+padding:12px 25px;
+margin:10px;
+border:none;
+border-radius:4px;
+background:#3b82f6;
+color:white;
+cursor:pointer;
+}
 }
