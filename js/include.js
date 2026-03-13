@@ -16,7 +16,7 @@ loadHTML("hero_section", "hero.html");
 loadHTML("services_section", "services.html");
 loadHTML("customer-trust_section", "customer-trust.html");
 loadHTML("about_section", "about.html");
-loadHTML("cta_section", "cta.html");
+loadHTML("contact_section", "contact.html");
 loadHTML("footer", "footer.html");
 
 });
