@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
 loadHTML("header_section", "header.html");
 loadHTML("hero_section", "hero.html");
 loadHTML("services_section", "services.html");
-loadHTML("customer-trust_section", "customer-trust.html");
+loadHTML("customer_trust_section", "customer_trust.html");
 loadHTML("about_section", "about.html");
 loadHTML("contact_section", "contact.html");
 loadHTML("footer", "footer.html");
