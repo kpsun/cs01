@@ -8,7 +8,7 @@ padding:80px;
 }
 
 .service{
-background:#1f2937;
+background: green; /* #1f2937 */
 padding:30px;
 border-radius:8px;
 width:250px;
@@ -16,7 +16,7 @@ color:white;
 }
 
 
-/*
+
 .serice button{
 padding:12px 25px;
 margin:10px;
@@ -26,4 +26,3 @@ background:#3b82f6;
 color:white;
 cursor:pointer;
 }
-*/
