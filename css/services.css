@@ -1,5 +1,3 @@
-/* SERVICES */
-
 .services{
 display:flex;
 justify-content:center;
@@ -8,14 +6,12 @@ padding:80px;
 }
 
 .service{
-background: green; /* #1f2937 */
+background:#1f2937;
 padding:30px;
 border-radius:8px;
 width:250px;
 color:white;
 }
-
-
 
 .serice button{
 padding:12px 25px;
