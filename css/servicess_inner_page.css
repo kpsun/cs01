@@ -1,0 +1,100 @@
+body{
+font-family: Arial, sans-serif;
+margin:0;
+line-height:1.6;
+color:#333;
+}
+
+/* container */
+
+.container{
+width:90%;
+max-width:1100px;
+margin:auto;
+}
+
+/* header */
+
+.site-header{
+background:#0b1c2c;
+color:white;
+padding:15px 0;
+}
+
+.logo{
+margin:0;
+}
+
+/* navigation */
+
+.nav-menu{
+list-style:none;
+display:flex;
+gap:25px;
+margin:0;
+padding:0;
+}
+
+.nav-menu a{
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+/* hero */
+
+.inner-hero{
+
+background:
+linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+url("../images/inner-hero.jpg");
+
+background-size:cover;
+background-position:center;
+
+color:white;
+padding:80px 0;
+text-align:center;
+
+}
+
+/* layout */
+
+.page-layout{
+display:flex;
+gap:40px;
+margin-top:40px;
+}
+
+/* main content */
+
+.main-content{
+flex:3;
+}
+
+.main-content h3{
+margin-top:30px;
+}
+
+/* sidebar */
+
+.sidebar{
+flex:1;
+background:#f4f4f4;
+padding:20px;
+border-radius:5px;
+}
+
+.sidebar ul{
+padding-left:18px;
+}
+
+/* footer */
+
+.site-footer{
+background:#0b1c2c;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:50px;
+}
