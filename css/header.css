@@ -52,6 +52,15 @@ color:#3b82f6;
   color:#0077cc;
 }
 
+
+
+
+
+
+
+
+
+
 /* Submenu */
 
 .submenu{
@@ -86,4 +95,23 @@ color:#3b82f6;
 
 .dropdown:hover .submenu{
   display:block;
+}
+
+
+
+/*  new */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
 }
