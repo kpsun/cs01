@@ -12,6 +12,10 @@ font-weight:bold;
 color:#3b82f6;
 }
 
+.logo a:visited {
+  color: inherit;
+}
+
 <!-- MENU CSS **********************************************
 nav a{
 margin-left:25px;
@@ -101,7 +105,6 @@ a:hover {
 
 a:visited {
   text-decoration: none;
-  color: inherit;
 }
 
 a:active {
