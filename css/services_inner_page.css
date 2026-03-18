@@ -1,8 +1,9 @@
+
 body{
 font-family: Arial, sans-serif;
 margin:0;
 line-height:1.6;
-color:#333;
+color:  #333;  
 }
 
 /* container */
@@ -22,7 +23,7 @@ margin:auto;
 .inner-hero{
 
 background:
-linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
 url("../images/inner-hero.jpg");
 
 background-size:cover;
@@ -44,20 +45,78 @@ margin-top:40px;
 
 /* main content */
 
+/* new */
+.custom-list {
+  list-style: none;   /* remove default bullets */
+  padding-left: 0;
+}
+
+.custom-list li {
+  position: relative;
+  padding-left: 25px;
+}
+
+.custom-list li::before {
+  content: "✔";   /* your icon here */
+  position: absolute;
+  left: 0;
+  color: var(--cybilance-blue);
+}
+
+.knowmore {
+font-size:10px;
+font-style: italic;
+background: #d7d7d7;
+display: inline-block;
+margin: 6px;
+padding-left:6px;
+padding-top: 2px;
+padding-bottom:2px;
+padding-top:2px;
+/* new */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+
+
 .main-content{
 flex:3;
 }
 
 .main-content h3{
 margin-top:30px;
+color: var(--deepblue-heading);
 }
+
+
 
 /* sidebar */
 
+.container {
+  display: flex;
+  align-items: flex-start; /* instead of stretch */
+}
+
 .sidebar{
-flex:1;
+flex: 1;                                  /*  1;   */
 background:#f4f4f4;
 padding:20px;
+padding-top: 100px;
+padding-bottom:100px;
+padding-left:20px
+padding-right:20px;
 border-radius:5px;
 }
 

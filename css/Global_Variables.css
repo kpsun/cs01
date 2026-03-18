@@ -1,0 +1,16 @@
+:root {
+	--cybilance-blue: #3b82f6;
+	--deepblue-heading: #02394b;
+	
+	
+	
+  --primary-color: #0a2540;
+  --accent-color: #00bcd4;
+  --text-color: #333333;
+
+/* CONSTANTS NOT USED */
+
+  --herocaptiontextcolor: #e5e7eb;
+  --image-path: "../images/";
+  --hero-image: "motherboard.png";
+}

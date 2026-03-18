@@ -2,14 +2,13 @@
     padding:60px 40px;
     background:#f5f5f5;
     text-align:center;
-
 }
 
 .customer_trust h2{
 	font-size:28px;
     margin-bottom:40px;
     text-align:center;
-   color: black;
+	color:var(--deepblue-heading);
 }
 
 .trust_container{
