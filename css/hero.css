@@ -1,7 +1,7 @@
 .hero{
 text-align:center;
 padding:120px 30px;
-background:#111827;
+background:var(--bg-hp-hero);
 }
 
 .hero h1{

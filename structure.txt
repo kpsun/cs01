@@ -1,0 +1,54 @@
+/*
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+
+*/
+HOME PAGE
+	SERVICE GROUP
+		GROUP PLUG IN
+			INDIVIDUAL SERVICE
+
+
+
+
+home page
+	logo = home-url
+
+	home = home-url
+	services 
+		assessment & testing =
+		GRC = 
+		Operations & incident response =
+		strategy & architecture = 
+Hero
+	Book consultation
+	Our Services
+
+assessment & testing = + GRC = + Operations & incident response = + strategy & architecture = 
+
+about
+testimony
+contact_us
+Footer
+	Services
+		Risk Assessment
+		Penetration Testing
+	Company
+		About
+		Contact
+		Linkedin
+	Legal
+		Privacy Policy
+		Terms

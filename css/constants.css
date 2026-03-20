@@ -3,4 +3,10 @@
   --herocaptiontextcolor: #e5e7eb;
   --image-path: "../images/";
   --hero-image: "motherboard.png";
+  
+  --bg-header:#020617;
+  --bg-button:#3b82f6;
+  --bg-hp-hero:#111827;  /*background homepage */
+  --bg-hp-service-groups:#111827;
+  --bg-hp-service:red;   /* #1f2937; */
 }

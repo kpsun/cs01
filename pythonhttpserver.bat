@@ -1,1 +1,1 @@
-C:\Users\skoni\AppData\Local\Programs\Python\Python313>python -m http.server
+C:\Users\skoni\AppData\Local\Programs\Python\Python313\python -m http.server
