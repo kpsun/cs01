@@ -6,3 +6,14 @@
       overlay.style.display = "none";
     });
   });
+
+
+
+
+
+document.addEventListener("click", function(e) {
+  if (e.target.matches(".close-btn")) {
+    const overlay = document.getElementById("overlay-box");
+    if (overlay) overlay.style.display = "none";
+  }
+});
