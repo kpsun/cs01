@@ -1,3 +1,5 @@
+/*
+
   document.addEventListener("DOMContentLoaded", function() {
     const overlay = document.getElementById("overlay-box");
     const closeBtn = document.querySelector(".close-btn");
@@ -8,7 +10,7 @@
   });
 
 
-
+*/
 
 
 document.addEventListener("click", function(e) {
