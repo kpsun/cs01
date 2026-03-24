@@ -1,27 +1,6 @@
 .notification{
-
-
-
 text-align:center;
 padding:20px 60px;
 background:#fcc526;
 color:black;
-}
-
-
-/*  new */
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:active {
-  text-decoration: none;
 }
