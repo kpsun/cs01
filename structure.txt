@@ -1,24 +1,24 @@
-/*
-a {
-  text-decoration: none;
-}
+STAND-ALONE-HOME-PAGE-(index.html)
+UNIVERSAL-COMPONENT-HEADER-(header.html)
+UNIVERSAL-SEGMENT-SERVICE-GROUPS-(service-groups.html)
+STAND-ALONE-EXPLANATION-SERVICE-GROUP-(services-inner-page.html/ security_assessment_and_testing.html, 
+UNIVERSAL-PLUGIN-SERVICE-GROUP-(
+UNIVERSAL-SEGMENT-CONTACT-(
+STAND-ALONE-EXPLANATION-(
 
-a:hover {
-  text-decoration: none;
-}
+UNIVERSAL-COMPONENT-FOOTER-(footer.html)
 
-a:visited {
-  text-decoration: none;
-}
 
-a:active {
-  text-decoration: none;
 
-*/
-HOME PAGE
-	SERVICE GROUP
-		GROUP PLUG IN
-			INDIVIDUAL SERVICE
+explain_vulnerability_assessment.html
+
+
+
+Page Structure File = psf
+Structure File Components = sfc
+Component Explanation File = cef
+Explanation File Plugin = cep
+
 
 
 
