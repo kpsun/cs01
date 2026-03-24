@@ -12,7 +12,7 @@
 }
 
 .overlay-content {
-  background: #fff;
+  background: green;    /*   #fff;   */
   padding: 20px 30px;
   border-radius: 8px;
   position: relative;
@@ -28,7 +28,3 @@
   cursor: pointer;
 }
 
-.close-btn {
-  z-index: 10000;
-  position: relative;
-}
