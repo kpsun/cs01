@@ -1,0 +1,23 @@
+.attention-container {
+  position: relative;
+}
+
+.box {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+}
+
+.box1 {
+  background: red;
+  top: 20px;
+  left: 20px;
+  z-index: 1;
+}
+
+.box2 {
+  background: blue;
+  top: 40px;
+  left: 40px;
+  z-index: 2; /* higher = on top */
+}
